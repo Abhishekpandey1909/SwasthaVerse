@@ -1,4 +1,4 @@
-import cv2                                                       #type: ignore
+                                                      #type: ignore
 import cv2
 import mediapipe as mp
 import numpy as np
@@ -7,7 +7,7 @@ import streamlit as st
 from PIL import Image
 
 # Load the model and labels
-model = load_model("E:\\yoga dataet\\yoga_pose_neural_network_model.h5")
+model = load_model("E:\\yoga dataet\\code\\yoga_pose_neural_network_model.h5")
 LABELS = ["downdog", "goddess", "plank", "tree", "warrior2"]
 
 
@@ -22,7 +22,7 @@ import streamlit as st
 from PIL import Image
 
 # Load the model and labels
-model = load_model("E:\\yoga dataet\\yoga_pose_neural_network_model.h5")
+model = load_model("E:\\yoga dataet\\code\\yoga_pose_neural_network_model.h5")
 LABELS = ["downdog", "goddess", "plank", "tree", "warrior2"]
 
 # Streamlit app title
