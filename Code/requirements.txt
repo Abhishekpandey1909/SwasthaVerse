@@ -1,7 +1,0 @@
-numpy
-mediapipe
-opencv-python-headless
-tensorflow
-scipy
-streamlit
-opencv-contrib-python
