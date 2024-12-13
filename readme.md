@@ -38,4 +38,3 @@ This project integrates insights from yoga literature, market analysis, and stat
 
 ---
 
-This summary highlights the project's objectives, methodology, and technologies for your README. Let me know if you want any modifications!
